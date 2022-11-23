@@ -1,0 +1,1 @@
+# szoftverfejlesztok2022_prog_alapok
